@@ -19,7 +19,7 @@ A block of code is set as follows:
 ```
 Any command-line input or output is written as follows:
 ```
-<strong> mysql -u root -p </strong>
+ **mysql -u root -p**
 ```
 
 For this book, you will need a computer with access to the Internet and the ability to install the open source software needed for the projects. The primary software we will be using consists of the R and Python programming languages, with a myriad of freely available packages and libraries. Installation instructions are in the first chapter.
