@@ -1,0 +1,88 @@
+<html>
+<head>
+    <title>{{ title }}</title>
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
+    <style type="text/css">
+        .center { text-align: center; }
+        #chart { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    
+    <div class="container">
+        <div class="row">
+            <div class="page-header">
+                <div class="col-md-12 center">
+                    <h1>{{ title }}</h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 center">
+                <ul class="list-unstyled list-inline">
+                {% for country in countries %}
+                    <li>{{ country }}<li>
+                {% endfor %}
+                </ul> 
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div id="chart"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Javascript loading at the bottom of the page -->
+    <script type="text/javascript" src="http://codeorigin.jquery.com/jquery-2.0.3.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+    <script src="http://code.highcharts.com/modules/exporting.js"></script>
+    <script type="text/javascript">
+        
+        $.noConflict();
+        jQuery(document).ready(function($) {
+            $('#chart').highcharts({
+                title: {
+                    text: '',
+                    x: -20
+                }, 
+                xAxis: {
+                    categories: JSON.parse('{{ years }}'),
+                    tickInterval: 5,
+                    labels: {
+                        rotation: -35
+                    }
+                },
+                yAxis: {
+                    title: {
+                        text: "2008 USD"
+                    }
+                },
+                plotOptions: {
+                    spline: {
+                        lineWidth: 2,
+                        states: {
+                            hover: {
+                                lineWidth: 3
+                            }
+                        },
+                        marker: {
+                            enabled: false
+                        }
+                    },
+                    line: {
+                        marker: {
+                            enabled: false
+                        }
+                    }
+                },
+                series: JSON.parse('{{ series }}')
+            });
+        });
+
+    </script>
+</body>
+</html>

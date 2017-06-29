@@ -1,0 +1,145 @@
+Field,Units,Notes
+Top 10% income share,%,Estimates excluding capital gains. Fractiles defined by total income excluding capital gains.
+Top 5% income share,%,Estimates excluding capital gains. Fractiles defined by total income excluding capital gains.
+Top 1% income share,%,Estimates excluding capital gains. Fractiles defined by total income excluding capital gains.
+Top 0.5% income share,%,Estimates excluding capital gains. Fractiles defined by total income excluding capital gains.
+Top 0.1% income share,%,Estimates excluding capital gains. Fractiles defined by total income excluding capital gains.
+Top 0.01% income share,%,Estimates excluding capital gains. Fractiles defined by total income excluding capital gains.
+Top 10-5% income share,%,Estimates excluding capital gains. Fractiles defined by total income excluding capital gains.
+Top 5-1% income share,%,Estimates excluding capital gains. Fractiles defined by total income excluding capital gains.
+Top 1-0.5% income share,%,Estimates excluding capital gains. Fractiles defined by total income excluding capital gains.
+Top 0.5-0.1% income share,%,Estimates excluding capital gains. Fractiles defined by total income excluding capital gains.
+Top 0.1-0.01% income share,%,Estimates excluding capital gains. Fractiles defined by total income excluding capital gains.
+Top 10% income share-including capital gains,%,Estimates including capital gains. Fractiles defined by total income including capital gains.
+Top 5% income share-including capital gains,%,Estimates including capital gains. Fractiles defined by total income including capital gains.
+Top 1% income share-including capital gains,%,Estimates including capital gains. Fractiles defined by total income including capital gains.
+Top 0.5% income share-including capital gains,%,Estimates including capital gains. Fractiles defined by total income including capital gains.
+Top 0.1% income share-including capital gains,%,Estimates including capital gains. Fractiles defined by total income including capital gains.
+Top 0.01% income share-including capital gains,%,Estimates including capital gains. Fractiles defined by total income including capital gains.
+Top 10-5% income share-including capital gains,%,Estimates including capital gains. Fractiles defined by total income including capital gains.
+Top 5-1% income share-including capital gains,%,Estimates including capital gains. Fractiles defined by total income including capital gains.
+Top 1-0.5% income share-including capital gains,%,Estimates including capital gains. Fractiles defined by total income including capital gains.
+Top 0.5-0.1% income share-including capital gains,%,Estimates including capital gains. Fractiles defined by total income including capital gains.
+Top 0.1-0.01% income share-including capital gains,%,Estimates including capital gains. Fractiles defined by total income including capital gains.
+"Top 10% income composition-Wages, salaries and pensions",%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 10% income composition-Dividends,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 10% income composition-Interest Income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 10% income composition-Rents,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 10% income composition-Entrepreneurial income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+"Top 5% income composition-Wages, salaries and pensions",%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 5% income composition-Dividends,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 5% income composition-Interest Income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 5% income composition-Rents,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 5% income composition-Entrepreneurial income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+"Top 1% income composition-Wages, salaries and pensions",%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 1% income composition-Dividends,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 1% income composition-Interest Income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 1% income composition-Rents,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 1% income composition-Entrepreneurial income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+"Top 0.5% income composition-Wages, salaries and pensions",%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.5% income composition-Dividends,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.5% income composition-Interest Income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.5% income composition-Rents,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.5% income composition-Entrepreneurial income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+"Top 0.1% income composition-Wages, salaries and pensions",%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.1% income composition-Dividends,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.1% income composition-Interest Income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.1% income composition-Rents,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.1% income composition-Entrepreneurial income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+"Top 0.01% income composition-Wages, salaries and pensions",%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.01% income composition-Dividends,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.01% income composition-Interest Income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.01% income composition-Rents,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.01% income composition-Entrepreneurial income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+"Top 10-5% income composition-Wages, salaries and pensions",%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 10-5% income composition-Dividends,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 10-5% income composition-Interest Income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 10-5% income composition-Rents,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 10-5% income composition-Entrepreneurial income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+"Top 5-1% income composition-Wages, salaries and pensions",%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 5-1% income composition-Dividends,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 5-1% income composition-Interest Income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 5-1% income composition-Rents,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 5-1% income composition-Entrepreneurial income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+"Top 1-0.5% income composition-Wages, salaries and pensions",%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 1-0.5% income composition-Dividends,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 1-0.5% income composition-Interest Income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 1-0.5% income composition-Rents,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 1-0.5% income composition-Entrepreneurial income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+"Top 0.5-0.1% income composition-Wages, salaries and pensions",%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.5-0.1% income composition-Dividends,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.5-0.1% income composition-Interest Income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.5-0.1% income composition-Rents,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.5-0.1% income composition-Entrepreneurial income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+"Top 0.1-0.01% income composition-Wages, salaries and pensions",%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.1-0.01% income composition-Dividends,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.1-0.01% income composition-Interest Income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.1-0.01% income composition-Rents,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 0.1-0.01% income composition-Entrepreneurial income,%,The sum of all sources add up to 100%. Fractiles defined by total income excluding capital gains.
+Top 10% capital gains (a),%,Fractiles in series (a) defined by total income excluding capital gains. Series expressed as percentage of total income including capital gains.
+Top 5% capital gains (a),%,Fractiles in series (a) defined by total income excluding capital gains. Series expressed as percentage of total income including capital gains.
+Top 1% capital gains (a),%,Fractiles in series (a) defined by total income excluding capital gains. Series expressed as percentage of total income including capital gains.
+Top 0.5% capital gains (a),%,Fractiles in series (a) defined by total income excluding capital gains. Series expressed as percentage of total income including capital gains.
+Top 0.1% capital gains (a),%,Fractiles in series (a) defined by total income excluding capital gains. Series expressed as percentage of total income including capital gains.
+Top 0.01% capital gains (a),%,Fractiles in series (a) defined by total income excluding capital gains. Series expressed as percentage of total income including capital gains.
+Top 10-5% capital gains (a),%,Fractiles in series (a) defined by total income excluding capital gains. Series expressed as percentage of total income including capital gains.
+Top 5-1% capital gains (a),%,Fractiles in series (a) defined by total income excluding capital gains. Series expressed as percentage of total income including capital gains.
+Top 1-0.5% capital gains (a),%,Fractiles in series (a) defined by total income excluding capital gains. Series expressed as percentage of total income including capital gains.
+Top 0.5-0.1% capital gains (a),%,Fractiles in series (a) defined by total income excluding capital gains. Series expressed as percentage of total income including capital gains.
+Top 0.1-0.01% capital gains (a),%,Fractiles in series (a) defined by total income excluding capital gains. Series expressed as percentage of total income including capital gains.
+Top 10% capital gains (b),%,Fractiles in series (b) defined by total income including capital gains. Series expressed as percentage of total income including capital gains.
+Top 5% capital gains (b),%,Fractiles in series (b) defined by total income including capital gains. Series expressed as percentage of total income including capital gains.
+Top 1% capital gains (b),%,Fractiles in series (b) defined by total income including capital gains. Series expressed as percentage of total income including capital gains.
+Top 0.5% capital gains (b),%,Fractiles in series (b) defined by total income including capital gains. Series expressed as percentage of total income including capital gains.
+Top 0.1% capital gains (b),%,Fractiles in series (b) defined by total income including capital gains. Series expressed as percentage of total income including capital gains.
+Top 0.01% capital gains (b),%,Fractiles in series (b) defined by total income including capital gains. Series expressed as percentage of total income including capital gains.
+Top 10-5% capital gains (b),%,Fractiles in series (b) defined by total income including capital gains. Series expressed as percentage of total income including capital gains.
+Top 5-1% capital gains (b),%,Fractiles in series (b) defined by total income including capital gains. Series expressed as percentage of total income including capital gains.
+Top 1-0.5% capital gains (b),%,Fractiles in series (b) defined by total income including capital gains. Series expressed as percentage of total income including capital gains.
+Top 0.5-0.1% capital gains (b),%,Fractiles in series (b) defined by total income including capital gains. Series expressed as percentage of total income including capital gains.
+Top 0.1-0.01% capital gains (b),%,Fractiles in series (b) defined by total income including capital gains. Series expressed as percentage of total income including capital gains.
+Number of tax units,Thousand,Families (see source for details).
+Number of tax returns,Thousand,
+Income control,Nominal million US Dollars,
+Income control-including capital gains,Nominal million US Dollars,
+Price index,2008=1.00,
+Average income per tax unit,Real 2008 US Dollars,Tax units are families (see source for details).
+Average income per tax unit-including capital gains,Real 2008 US Dollars,Tax units are families (see source for details).
+Top 10% average income,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+Top 5% average income,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+Top 1% average income,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+Top 0.5% average income,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+Top 0.1% average income,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+Top 0.01% average income,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+Bottom 90% average income,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+Top 10-5% average income,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+Top 5-1% average income,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+Top 1-0.5% average income,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+Top 0.5-0.1% average income,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+Top 0.1-0.01% average income,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+P90 income threshold,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+P95 income threshold,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+P99 income threshold,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+P99.5 income threshold,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+P99.9 income threshold,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+P99.99 income threshold,Real 2008 US Dollars,Fractiles defined by total income excluding capital gains; income excludes capital gains.
+Top 10% average income-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+Top 5% average income-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+Top 1% average income-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+Top 0.5% average income-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+Top 0.1% average income-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+Top 0.01% average income-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+Bottom 90% average income-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+Top 10-5% average income-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+Top 5-1% average income-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+Top 1-0.5% average income-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+Top 0.5-0.1% average income-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+Top 0.1-0.01% average income-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+P90 income threshold-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+P95 income threshold-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+P99 income threshold-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+P99.5 income threshold-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+P99.9 income threshold-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+P99.99 income threshold-including capital gains,Real 2008 US Dollars,Fractiles defined by total income including capital gains; income includes capital gains.
+Pareto-Lorenz coefficient,,
+Inverted Pareto-Lorenz coefficient,,

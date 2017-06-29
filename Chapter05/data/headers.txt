@@ -1,0 +1,352 @@
+col1:	Top 10% income share
+col2:	Top 10% income share-LAD
+col3:	Top 10% income share-tax units
+col4:	Top 10% income share-adults
+col5:	Top 5% income share
+col6:	Top 5% income share-LAD
+col7:	Top 5% income share-tax units
+col8:	Top 5% income share-adults
+col9:	Top 1% income share
+col10:	Top 1% income share-LAD
+col11:	Top 1% income share-tax units
+col12:	Top 1% income share-adults
+col13:	Top 0.5% income share
+col14:	Top 0.5% income share-LAD
+col15:	Top 0.5% income share-tax units
+col16:	Top 0.5% income share-adults
+col17:	Top 0.1% income share
+col18:	Top 0.1% income share-LAD
+col19:	Top 0.1% income share-tax units
+col20:	Top 0.1% income share-adults
+col21:	Top 0.05% income share
+col22:	Top 0.05% income share-tax units
+col23:	Top 0.05% income share-adults
+col24:	Top 0.01% income share
+col25:	Top 0.01% income share-LAD
+col26:	Top 0.01% income share-tax units
+col27:	Top 0.01% income share-adults
+col28:	Top 0.25% income share
+col29:	Top 0.15% income share
+col30:	Top 10-5% income share
+col31:	Top 10-5% income share-LAD
+col32:	Top 10-5% income share-tax units
+col33:	Top 10-5% income share-adults
+col34:	Top 5-1% income share
+col35:	Top 5-1% income share-LAD
+col36:	Top 5-1% income share-tax units
+col37:	Top 5-1% income share-adults
+col38:	Top 1-0.5% income share
+col39:	Top 1-0.5% income share-LAD
+col40:	Top 1-0.5% income share-tax units
+col41:	Top 1-0.5% income share-adults
+col42:	Top 0.5-0.1% income share
+col43:	Top 0.5-0.1% income share-LAD
+col44:	Top 0.5-0.1% income share-tax units
+col45:	Top 0.5-0.1% income share-adults
+col46:	Top 0.1-0.05% income share
+col47:	Top 0.1-0.05% income share-tax units
+col48:	Top 0.1-0.05% income share-adults
+col49:	Top 0.05-0.01% income share
+col50:	Top 0.05-0.01% income share-tax units
+col51:	Top 0.05-0.01% income share-adults
+col52:	Top 0.1-0.01% income share
+col53:	Top 0.1-0.01% income share-LAD
+col54:	Top 0.1-0.01% income share-tax units
+col55:	Top 0.1-0.01% income share-adults
+col56:	Top 10% income share-including capital gains
+col57:	Top 10% income share-including capital gains-LAD
+col58:	Top 5% income share-including capital gains
+col59:	Top 5% income share-including capital gains-LAD
+col60:	Top 1% income share-including capital gains
+col61:	Top 1% income share-including capital gains-LAD
+col62:	Top 0.5% income share-including capital gains
+col63:	Top 0.5% income share-including capital gains-LAD
+col64:	Top 0.1% income share-including capital gains
+col65:	Top 0.1% income share-including capital gains-LAD
+col66:	Top 0.05% income share-including capital gains
+col67:	Top 0.01% income share-including capital gains
+col68:	Top 0.01% income share-including capital gains-LAD
+col69:	Top 10-5% income share-including capital gains
+col70:	Top 10-5% income share-including capital gains-LAD
+col71:	Top 5-1% income share-including capital gains
+col72:	Top 5-1% income share-including capital gains-LAD
+col73:	Top 1-0.5% income share-including capital gains
+col74:	Top 1-0.5% income share-including capital gains-LAD
+col75:	Top 0.5-0.1% income share-including capital gains
+col76:	Top 0.5-0.1% income share-including capital gains-LAD
+col77:	Top 0.1-0.05% income share-including capital gains
+col78:	Top 0.05-0.01% income share-including capital gains
+col79:	Top 0.1-0.01% income share-including capital gains
+col80:	Top 0.1-0.01% income share-including capital gains-LAD
+col81:	Top 10% income composition-Wages, salaries and pensions
+col82:	Top 10% income composition-Non-wage income
+col83:	Top 10% income composition-Professional income
+col84:	Top 10% income composition-Business income
+col85:	Top 10% income composition-Dividends
+col86:	Top 10% income composition-Interest Income
+col87:	Top 10% income composition-Investment income
+col88:	Top 10% income composition-Farming income
+col89:	Top 10% income composition-Business income (industry, commerce)
+col90:	Top 10% income composition-Capital income
+col91:	Top 10% income composition-Non-commercial business income
+col92:	Top 10% income composition-Rents
+col93:	Top 10% income composition-Self-employment income
+col94:	Top 10% income composition-Entrepreneurial income
+col95:	Top 10% income composition-Property income
+col96:	Top 10% income composition-Other
+col97:	Top 10% income composition-Capital gains
+col98:	Top 5% income composition-Wages, salaries and pensions
+col99:	Top 5% income composition-Non-wage income
+col100:	Top 5% income composition-Professional income
+col101:	Top 5% income composition-Business income
+col102:	Top 5% income composition-Dividends
+col103:	Top 5% income composition-Interest Income
+col104:	Top 5% income composition-Investment income
+col105:	Top 5% income composition-Farming income
+col106:	Top 5% income composition-Business income (industry, commerce)
+col107:	Top 5% income composition-Capital income
+col108:	Top 5% income composition-Non-commercial business income
+col109:	Top 5% income composition-Rents
+col110:	Top 5% income composition-Self-employment income
+col111:	Top 5% income composition-Entrepreneurial income
+col112:	Top 5% income composition-Property income
+col113:	Top 5% income composition-Other
+col114:	Top 5% income composition-Capital gains
+col115:	Top 1% income composition-Wages, salaries and pensions
+col116:	Top 1% income composition-Non-wage income
+col117:	Top 1% income composition-Professional income
+col118:	Top 1% income composition-Business income
+col119:	Top 1% income composition-Dividends
+col120:	Top 1% income composition-Interest Income
+col121:	Top 1% income composition-Investment income
+col122:	Top 1% income composition-Farming income
+col123:	Top 1% income composition-Business income (industry, commerce)
+col124:	Top 1% income composition-Capital income
+col125:	Top 1% income composition-Non-commercial business income
+col126:	Top 1% income composition-Rents
+col127:	Top 1% income composition-Self-employment income
+col128:	Top 1% income composition-Entrepreneurial income
+col129:	Top 1% income composition-Property income
+col130:	Top 1% income composition-Other
+col131:	Top 1% income composition-Capital gains
+col132:	Top 0.5% income composition-Wages, salaries and pensions
+col133:	Top 0.5% income composition-Non-wage income
+col134:	Top 0.5% income composition-Professional income
+col135:	Top 0.5% income composition-Business income
+col136:	Top 0.5% income composition-Dividends
+col137:	Top 0.5% income composition-Interest Income
+col138:	Top 0.5% income composition-Investment income
+col139:	Top 0.5% income composition-Farming income
+col140:	Top 0.5% income composition-Business income (industry, commerce)
+col141:	Top 0.5% income composition-Capital income
+col142:	Top 0.5% income composition-Non-commercial business income
+col143:	Top 0.5% income composition-Rents
+col144:	Top 0.5% income composition-Self-employment income
+col145:	Top 0.5% income composition-Entrepreneurial income
+col146:	Top 0.5% income composition-Property income
+col147:	Top 0.5% income composition-Other
+col148:	Top 0.5% income composition-Capital gains
+col149:	Top 0.1% income composition-Wages, salaries and pensions
+col150:	Top 0.1% income composition-Non-wage income
+col151:	Top 0.1% income composition-Professional income
+col152:	Top 0.1% income composition-Business income
+col153:	Top 0.1% income composition-Dividends
+col154:	Top 0.1% income composition-Interest Income
+col155:	Top 0.1% income composition-Investment income
+col156:	Top 0.1% income composition-Farming income
+col157:	Top 0.1% income composition-Business income (industry, commerce)
+col158:	Top 0.1% income composition-Capital income
+col159:	Top 0.1% income composition-Non-commercial business income
+col160:	Top 0.1% income composition-Rents
+col161:	Top 0.1% income composition-Self-employment income
+col162:	Top 0.1% income composition-Entrepreneurial income
+col163:	Top 0.1% income composition-Property income
+col164:	Top 0.1% income composition-Other
+col165:	Top 0.1% income composition-Capital gains
+col166:	Top 0.01% income composition-Wages, salaries and pensions
+col167:	Top 0.01% income composition-Non-wage income
+col168:	Top 0.01% income composition-Professional income
+col169:	Top 0.01% income composition-Business income
+col170:	Top 0.01% income composition-Dividends
+col171:	Top 0.01% income composition-Interest Income
+col172:	Top 0.01% income composition-Investment income
+col173:	Top 0.01% income composition-Farming income
+col174:	Top 0.01% income composition-Business income (industry, commerce)
+col175:	Top 0.01% income composition-Capital income
+col176:	Top 0.01% income composition-Non-commercial business income
+col177:	Top 0.01% income composition-Rents
+col178:	Top 0.01% income composition-Self-employment income
+col179:	Top 0.01% income composition-Entrepreneurial income
+col180:	Top 0.01% income composition-Capital gains
+col181:	Top 10-5% income composition-Wages, salaries and pensions
+col182:	Top 10-5% income composition-Professional income
+col183:	Top 10-5% income composition-Business income
+col184:	Top 10-5% income composition-Dividends
+col185:	Top 10-5% income composition-Interest Income
+col186:	Top 10-5% income composition-Investment income
+col187:	Top 10-5% income composition-Farming income
+col188:	Top 10-5% income composition-Business income (industry, commerce)
+col189:	Top 10-5% income composition-Capital income
+col190:	Top 10-5% income composition-Non-commercial business income
+col191:	Top 10-5% income composition-Rents
+col192:	Top 10-5% income composition-Self-employment income
+col193:	Top 10-5% income composition-Entrepreneurial income
+col194:	Top 10-5% income composition-Capital gains
+col195:	Top 5-1% income composition-Wages, salaries and pensions
+col196:	Top 5-1% income composition-Professional income
+col197:	Top 5-1% income composition-Business income
+col198:	Top 5-1% income composition-Dividends
+col199:	Top 5-1% income composition-Interest Income
+col200:	Top 5-1% income composition-Investment income
+col201:	Top 5-1% income composition-Farming income
+col202:	Top 5-1% income composition-Business income (industry, commerce)
+col203:	Top 5-1% income composition-Capital income
+col204:	Top 5-1% income composition-Non-commercial business income
+col205:	Top 5-1% income composition-Rents
+col206:	Top 5-1% income composition-Self-employment income
+col207:	Top 5-1% income composition-Entrepreneurial income
+col208:	Top 5-1% income composition-Capital gains
+col209:	Top 1-0.5% income composition-Wages, salaries and pensions
+col210:	Top 1-0.5% income composition-Professional income
+col211:	Top 1-0.5% income composition-Business income
+col212:	Top 1-0.5% income composition-Dividends
+col213:	Top 1-0.5% income composition-Interest Income
+col214:	Top 1-0.5% income composition-Investment income
+col215:	Top 1-0.5% income composition-Farming income
+col216:	Top 1-0.5% income composition-Business income (industry, commerce)
+col217:	Top 1-0.5% income composition-Capital income
+col218:	Top 1-0.5% income composition-Non-commercial business income
+col219:	Top 1-0.5% income composition-Rents
+col220:	Top 1-0.5% income composition-Self-employment income
+col221:	Top 1-0.5% income composition-Entrepreneurial income
+col222:	Top 1-0.5% income composition-Capital gains
+col223:	Top 0.5-0.1% income composition-Wages, salaries and pensions
+col224:	Top 0.5-0.1% income composition-Professional income
+col225:	Top 0.5-0.1% income composition-Business income
+col226:	Top 0.5-0.1% income composition-Dividends
+col227:	Top 0.5-0.1% income composition-Interest Income
+col228:	Top 0.5-0.1% income composition-Investment income
+col229:	Top 0.5-0.1% income composition-Farming income
+col230:	Top 0.5-0.1% income composition-Business income (industry, commerce)
+col231:	Top 0.5-0.1% income composition-Capital income
+col232:	Top 0.5-0.1% income composition-Non-commercial business income
+col233:	Top 0.5-0.1% income composition-Rents
+col234:	Top 0.5-0.1% income composition-Self-employment income
+col235:	Top 0.5-0.1% income composition-Entrepreneurial income
+col236:	Top 0.5-0.1% income composition-Capital gains
+col237:	Top 0.1-0.01% income composition-Wages, salaries and pensions
+col238:	Top 0.1-0.01% income composition-Professional income
+col239:	Top 0.1-0.01% income composition-Business income
+col240:	Top 0.1-0.01% income composition-Dividends
+col241:	Top 0.1-0.01% income composition-Interest Income
+col242:	Top 0.1-0.01% income composition-Investment income
+col243:	Top 0.1-0.01% income composition-Farming income
+col244:	Top 0.1-0.01% income composition-Business income (industry, commerce)
+col245:	Top 0.1-0.01% income composition-Capital income
+col246:	Top 0.1-0.01% income composition-Non-commercial business income
+col247:	Top 0.1-0.01% income composition-Rents
+col248:	Top 0.1-0.01% income composition-Self-employment income
+col249:	Top 0.1-0.01% income composition-Entrepreneurial income
+col250:	Top 0.1-0.01% income composition-Capital gains
+col251:	Top 10% capital gains (a)
+col252:	Top 5% capital gains (a)
+col253:	Top 1% capital gains (a)
+col254:	Top 0.5% capital gains (a)
+col255:	Top 0.1% capital gains (a)
+col256:	Top 0.01% capital gains (a)
+col257:	Top 10-5% capital gains (a)
+col258:	Top 5-1% capital gains (a)
+col259:	Top 1-0.5% capital gains (a)
+col260:	Top 0.5-0.1% capital gains (a)
+col261:	Top 0.1-0.01% capital gains (a)
+col262:	Top 10% capital gains (b)
+col263:	Top 5% capital gains (b)
+col264:	Top 1% capital gains (b)
+col265:	Top 0.5% capital gains (b)
+col266:	Top 0.1% capital gains (b)
+col267:	Top 0.01% capital gains (b)
+col268:	Top 10-5% capital gains (b)
+col269:	Top 5-1% capital gains (b)
+col270:	Top 1-0.5% capital gains (b)
+col271:	Top 0.5-0.1% capital gains (b)
+col272:	Top 0.1-0.01% capital gains (b)
+col273:	Number of adults
+col274:	Number of tax units
+col275:	Number of tax units-married couples & single adults
+col276:	Number of tax units-adults
+col277:	Number of tax returns
+col278:	Income control
+col279:	Income control-including capital gains
+col280:	Price index
+col281:	Average income per tax unit
+col282:	Average income per tax unit-married couples & single adults
+col283:	Average income per tax unit-adults
+col284:	Average income per tax unit-including capital gains
+col285:	Average income per adult
+col286:	Top 10% average income
+col287:	Top 10% average income-tax units
+col288:	Top 10% average income-adults
+col289:	Top 5% average income
+col290:	Top 5% average income-tax units
+col291:	Top 5% average income-adults
+col292:	Top 1% average income
+col293:	Top 1% average income-tax units
+col294:	Top 1% average income-adults
+col295:	Top 0.5% average income
+col296:	Top 0.5% average income-tax units
+col297:	Top 0.5% average income-adults
+col298:	Top 0.1% average income
+col299:	Top 0.1% average income-tax units
+col300:	Top 0.1% average income-adults
+col301:	Top 0.01% average income
+col302:	Top 0.01% average income-tax units
+col303:	Top 0.01% average income-adults
+col304:	Bottom 90% average income
+col305:	Bottom 90% average income-tax units
+col306:	Bottom 90% average income-adults
+col307:	Top 0.25% average income
+col308:	Top 0.15% average income
+col309:	Top 0.05% average income
+col310:	Top 10-5% average income
+col311:	Top 10-5% average income-tax units
+col312:	Top 10-5% average income-adults
+col313:	Top 5-1% average income
+col314:	Top 5-1% average income-tax units
+col315:	Top 5-1% average income-adults
+col316:	Top 1-0.5% average income
+col317:	Top 1-0.5% average income-tax units
+col318:	Top 1-0.5% average income-adults
+col319:	Top 0.5-0.1% average income
+col320:	Top 0.5-0.1% average income-tax units
+col321:	Top 0.5-0.1% average income-adults
+col322:	Top 0.1-0.01% average income
+col323:	Top 0.1-0.01% average income-tax units
+col324:	Top 0.1-0.01% average income-adults
+col325:	Top 0.1-0.05% average income
+col326:	Top 0.05-0.01% average income
+col327:	P90 income threshold
+col328:	P95 income threshold
+col329:	P99 income threshold
+col330:	P99.5 income threshold
+col331:	P99.9 income threshold
+col332:	P99.99 income threshold
+col333:	Top 10% average income-including capital gains
+col334:	Top 5% average income-including capital gains
+col335:	Top 1% average income-including capital gains
+col336:	Top 0.5% average income-including capital gains
+col337:	Top 0.1% average income-including capital gains
+col338:	Top 0.01% average income-including capital gains
+col339:	Bottom 90% average income-including capital gains
+col340:	Top 10-5% average income-including capital gains
+col341:	Top 5-1% average income-including capital gains
+col342:	Top 1-0.5% average income-including capital gains
+col343:	Top 0.5-0.1% average income-including capital gains
+col344:	Top 0.1-0.01% average income-including capital gains
+col345:	P90 income threshold-including capital gains
+col346:	P95 income threshold-including capital gains
+col347:	P99 income threshold-including capital gains
+col348:	P99.5 income threshold-including capital gains
+col349:	P99.9 income threshold-including capital gains
+col350:	P99.99 income threshold-including capital gains
+col351:	Pareto-Lorenz coefficient
+col352:	Inverted Pareto-Lorenz coefficient
