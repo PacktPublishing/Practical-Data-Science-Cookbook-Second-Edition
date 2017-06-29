@@ -9,17 +9,14 @@ Starting with the basics, this book covers how to set up your numerical programm
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 
-
-The code will look like the following:
-```
 A block of code is set as follows:
-
+```
 <Contextpath="/jira"docBase="${catalina.home}
 /atlassian- jira" reloadable="false" useHttpOnly="true">
 ```
 Any command-line input or output is written as follows:
 ```
- ** mysql -u root -p **
+mysql -u root -p
 ```
 
 For this book, you will need a computer with access to the Internet and the ability to install the open source software needed for the projects. The primary software we will be using consists of the R and Python programming languages, with a myriad of freely available packages and libraries. Installation instructions are in the first chapter.
