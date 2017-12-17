@@ -27,6 +27,3 @@ For this book, you will need a computer with access to the Internet and the abil
 * [Python Data Science Essentials - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/python-data-science-essentials-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786462138)
 
 * [Practical Data Analysis - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/practical-data-analysis-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785289712)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
